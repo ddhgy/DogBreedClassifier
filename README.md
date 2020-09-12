@@ -1,2 +1,3 @@
-# DogBreedClassifier
-udacity Dogbreed
+# Udacity 课程狗的种类分类识别    
+    项目概述：
+    
