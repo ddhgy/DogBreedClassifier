@@ -27,5 +27,6 @@ Total params: 19,189
 Trainable params: 19,189
 Non-trainable params: 0
 _________________________________________________________________
+
 ##迁移学习
-使用Xception，达到85.28%准确率
+    使用Xception，达到85.28%准确率
